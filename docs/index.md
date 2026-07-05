@@ -5,7 +5,7 @@ nav_order: 1
 lang: en
 ---
 
-#Welcome to Morpho4D documentation
+# Welcome to Morpho4D documentation
 {: .no_toc}
 
 
