@@ -10,4 +10,3 @@ lang: en
 
 
 This is the official documentation for Morpho4D for Grasshopper3D.
-[Change to Korean](https://hugo-park.github.io/Morpho4D-wiki-ko/){: .btn }

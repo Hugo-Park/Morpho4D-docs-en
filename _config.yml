@@ -44,10 +44,8 @@ search:
 
 # Aux links for the upper right navigation
 aux_links:
-  "KO": "https://hugo-park.github.io/Morpho4D-wiki-ko/"
-  "EN": "/Morpho4D-wiki-en/docs/"
-#  "Just the Docs on GitHub":
-#    - "//github.com/just-the-docs/just-the-docs"
+  "KOR": "https://hugo-park.github.io/Morpho4D-wiki-ko/docs/"
+  "ENG": "https://hugo-park.github.io/Morpho4D-wiki-en/docs/"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
