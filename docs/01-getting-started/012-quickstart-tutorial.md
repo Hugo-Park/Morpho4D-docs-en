@@ -7,5 +7,5 @@ lang: en
 permalink: /01-getting-started/012-quickstart-tutorial/
 ---
 
-# 01.2 Quick Start Tutorial
+# **01.2 Quick Start Tutorial**
 {: .no_toc}

@@ -7,10 +7,10 @@ lang: en
 permalink: /01-getting-started/011-installation/
 ---
 
-# 01.1 Installation
+# **01.1 Installation**
 {: .no_toc}
 
-## Rhino3D PakageManager
+# Rhino3D PakageManager
 {: .no_toc}
 
 [PakageManager Capture Here]
@@ -20,7 +20,7 @@ This is the simplist way to get add-ons on Rhino/Grasshopper.
 
 For more information : [Rhino PakageManager](https://docs.mcneel.com/rhino/8/help/ko-kr/commands/packagemanager.htm)
 
-## Food4Rhino
+# Food4Rhino
 {: .no_toc}
 
 [Food4Rhino Capture Here]

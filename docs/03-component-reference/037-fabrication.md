@@ -7,5 +7,5 @@ lang: en
 permalink: /03-component-reference/037-fabrication/
 ---
 
-# 03.7 Fabrication Components
+# **03.7 Fabrication Components**
 {: .no_toc}

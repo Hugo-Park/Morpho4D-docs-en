@@ -7,5 +7,5 @@ lang: en
 permalink: /03-component-reference/035-diagnostics/
 ---
 
-# 03.5 Diagnostics Components
+# **03.5 Diagnostics Components**
 {: .no_toc}

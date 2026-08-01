@@ -7,5 +7,5 @@ lang: en
 permalink: /03-component-reference/034-solver/
 ---
 
-# 03.4 Solver Components
+# **03.4 Solver Components**
 {: .no_toc}

@@ -7,5 +7,5 @@ lang: en
 permalink: /05-appendix/051-license/
 ---
 
-# 05.1 License
+# **05.1 License**
 {:. no_toc}

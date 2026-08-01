@@ -7,5 +7,5 @@ lang: en
 permalink: /03-component-reference/032-material/
 ---
 
-# 03.2 Material Components
+# **03.2 Material Components**
 {: .no_toc}
