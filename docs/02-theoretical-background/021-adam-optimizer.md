@@ -7,5 +7,5 @@ lang: en
 permalink: /02-theoretical-background/021-adam-optimizer/
 ---
 
-# **02.1 BFGS Minimizer**
+# **02.1 Adam Optimizer**
 {: .no_toc}
