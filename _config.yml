@@ -55,3 +55,6 @@ aux_links_new_tab: false
 #
 # Supports true (default) or false
 heading_anchors: true
+
+# Footer setting
+footer_content: "Copyright © 2026 Morpho4D. All rights reserved."
