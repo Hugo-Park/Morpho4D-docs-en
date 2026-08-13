@@ -15,6 +15,8 @@ Morpho4D is a 4D printing simulation add-on for Grasshopper3D.
 This simulates how smart materials-such as Shape Memory Polmers (SMP) and Hydrogels-deform and respond in real-time to external stimulus.
 It bridges the gap between digital computational design and physical material behavior, enabling users to program, analyze, and visualize complex self-morphing geometries directly within Rhino3D.
 
+*This website is work in progress, so content is continuously being added and updated.*
+
 # Citing Morpho4D
 
 ```bibtex

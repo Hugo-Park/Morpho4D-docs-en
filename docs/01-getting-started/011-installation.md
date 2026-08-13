@@ -13,17 +13,15 @@ permalink: /01-getting-started/011-installation/
 # Rhino3D PakageManager
 {: .no_toc}
 
-[PakageManager Capture Here]
+[*PakageManager will be available on Alpha version*]
 
 You can use Rhino3D PakageManager to install Morpho4D.
 This is the simplist way to get add-ons on Rhino/Grasshopper.
-
-For more information : [Rhino PakageManager](https://docs.mcneel.com/rhino/8/help/en-us/commands/packagemanager.htm)
+For more information - [Rhino PakageManager](https://docs.mcneel.com/rhino/8/help/en-us/commands/packagemanager.htm)
 
 # Food4Rhino
 {: .no_toc}
 
-[Food4Rhino Capture Here]
+![Food4RhinoWeb](images-01/Food4RhinoWeb.png)
 
 You can also use Food4Rhino website to get Morpho4D if you get some troubles while dealing with PakageManager.
-
